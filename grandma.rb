@@ -16,13 +16,13 @@ def speak_to_grandma(string)
 
 if string == "Hi Nana, how are you?"
    "Huh?! Speak up, sonny!".upcase
- elsif string == "Hi!") 
+ elsif string == "Hi!"
    "Huh?! Speak up, sonny!".upcase
-  elsif string == "What did you eat today?")
+  elsif string == "What did you eat today?"
     "No, not since 1938!".upcase
-  elsif string == "I LOVE YOU GRANDMA") 
+  elsif string == "I LOVE YOU GRANDMA"
     "I LOVE YOU TOO PUMPKIN"
-  else string =="WHAT?")
+  else string =="WHAT?"
     "No, not since 1938!".upcase
 end
 end
